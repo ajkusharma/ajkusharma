@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi All, I am Ajay Sharma 16+ years of experience in IT, Currently in Charlotte since 2024<br>Moved here from India.<br>Spent 16+ years at Different IT MNC's (Bank of America, Fidelity, Dish Network, Cognizant, TCS, and Wipro),while building my tech Passion I also like playing cricket, biking, and mentoring startups. Love movies, books, and travelling<br>:house: Current Place?<br>Charlotte, NC, USA<br>Working at Bank of America as Senior Full Stack Engineer <br>Skills: Java 11/17/21, Spring boot, Microservices, Kafka, AWS, Angular 17-21, React JS, Docker, Python<br>Where to connect?<br>www.linkedin.com/in/ajay-sharma-developer
+Hi All, I am Ajay Sharma 16+ years of experience in IT, Currently in Charlotte since 2024<br>i am from India.<br>Spent 16+ years at Different IT MNC's (Bank of America, Fidelity, Dish Network, Cognizant, TCS, and Wipro),while building my tech Passion I also like playing cricket, biking, and mentoring startups. Love movies, books, and travelling<br>:house: Current Place?<br>Charlotte, NC, USA<br>Working at Bank of America as Senior Full Stack Engineer <br>Skills: Java 11/17/21, Spring boot, Microservices, Kafka, AWS, Angular 17-21, React JS, Docker, Python<br>Where to connect?<br>www.linkedin.com/in/ajay-sharma-developer
 
 
 ## 🌐 Socials:
